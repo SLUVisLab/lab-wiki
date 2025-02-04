@@ -1,4 +1,4 @@
-```
+v```
  __  __     ______      ____        __         ______      ____      
 /\ \/\ \   /\__  _\    /\  _`\     /\ \       /\  _  \    /\  _`\    
 \ \ \ \ \  \/_/\ \/    \ \,\L\_\   \ \ \      \ \ \L\ \   \ \ \L\ \  
@@ -10,19 +10,8 @@
 ```
 
 
-# **SLU VisLab Wiki**
-Welcome to the **VisLab** at Saint Louis University! This wiki serves as the central repository for all lab-related documentation, including onboarding guides, computing resources, dataset information, and policies.
+# 📖 SLU Computer Vision Lab Wiki
 
-Our goal is to advance **computer vision research** through collaboration, experimentation, and open knowledge sharing.
+The official documentation for SLU Vislab is available on our GitHub Wiki.
 
-## **📖 Table of Contents**
-- 🏁 [Getting Started (Onboarding Guide)](docs/onboarding.md)
-- 💻 [Computing Resources](docs/computing.md)
-- ❓ [Frequently Asked Questions (FAQ)](docs/faq.md)
-- 🔍 [Datasets Overview](docs/datasets.md)
-- 📚 [Useful Resources](docs/resources.md)
-
-For any questions or access requests, please contact **[lab-admin@slu.edu](mailto:lab-admin@slu.edu)**.
-
----
-🚀 _Let's push the boundaries of computer vision together!_
+🔗 **[View the Wiki Here](https://github.com/SLUVisLab/lab-wiki/wiki)**  
